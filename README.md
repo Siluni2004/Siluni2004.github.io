@@ -1,8 +1,5 @@
 <html>
- <head>
-  <title>MY PORTFOLIO</title>
-   </head>
- <html>
+
  <body>
 <h1>Siluni Nanayakkara</h1>
 <br><h5>Food technologist</h5>
